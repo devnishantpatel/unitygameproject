@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c16804ce4c98b6346a89bddbe1535b92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312264
+  packageName: 2D-Ocean theme Parallax Background
+  packageVersion: 1.0
+  assetPath: Assets/2D-Ocean theme Parallax Background/Scripts/Background_Speed_looping.cs
+  uploadId: 738601
