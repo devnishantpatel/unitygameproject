@@ -53,10 +53,10 @@ TagManager:
   - name: ground
     uniqueID: 1330537483
     locked: 0
-  - name: New Layer 5
+  - name: sea
     uniqueID: 1045807211
     locked: 0
-  - name: New Layer 6
+  - name: boom
     uniqueID: 2596579261
     locked: 0
   - name: New Layer 7
